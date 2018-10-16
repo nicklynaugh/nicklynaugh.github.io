@@ -17,16 +17,10 @@
 	<section class="content">
 		<h1>Nick Lynaugh</h1>
 		<p id="desc">Writer</p>
-		<a href="mailto:jon@jonphillips.ca" title="Email Jon Phillips">Contact</a>
+		<a href="mailto:nicklynaugh@gmail.com" title="Email Nick Lynaugh">Contact</a>
 	</section>
 </main>
 
-<footer>
-	<a class="tw" href="https://twitter.com/jophillips" title="Jon Phillips on Twitter"><span class="icon-twitter"></span></a>
-	<a class="fb" href="https://www.facebook.com/jo.phillips" title="Jon Phillips on Facebook"><span class="icon-facebook"></span></a>
-	<a class="ig" href="https://www.instagram.com/phillips_jon/" title="Jon Phillips on Instagram"><span class="icon-instagram"></span></a>
-	<a class="li" href="https://www.linkedin.com/in/jonathancphillips" title="Jon Phillips on LinkedIn"><span class="icon-linkedin"></span></a>
-</footer>
 
 <script>
 var showText = function (target, message, index, interval) {
@@ -36,7 +30,7 @@ var showText = function (target, message, index, interval) {
 	}
 }
 $(function () {
-	showText("#desc", "User Interface Designer", 0, 100);
+	showText("#desc", "Writer", 0, 100);
 });
 </script>
 
